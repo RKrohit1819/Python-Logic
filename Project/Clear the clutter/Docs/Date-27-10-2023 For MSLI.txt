@@ -1,0 +1,13 @@
+Date-27-10-2023 For MSLI
+
+Sub-how to fix the gateWay device as localhost
+
+
+1. first take the PHP file from the server copy it to your local Host and take the same API that you took as the server but only one thing has to change ex-192.168.377:8008 which is your DHCP IP of your Local Computer.
+
+2. Take this API that have you created on your Local Device and test it on the POST APP also make a table on PHP my admin example- give some parameters and send it then you check whether it is inserted into the database or not.
+
+
+3. Give the API to the Hardware People and they will update the firmware and upload the code to the device.
+
+4. Now first start the process and check whether the ok part is made or not and data is inserted or not in the database Same as you test as the NG part. 
